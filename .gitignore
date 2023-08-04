@@ -1,0 +1,7 @@
+# Ignore the venv directory (assuming it's named "venv")
+venv_fpl/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+.DS_Store
